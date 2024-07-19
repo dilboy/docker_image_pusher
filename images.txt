@@ -1,1 +1,2 @@
 jvmilazz0/kavita
+holaflenain/stable-diffusion
