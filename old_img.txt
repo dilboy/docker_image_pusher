@@ -1,0 +1,3 @@
+jvmilazz0/kavita
+holaflenain/stable-diffusion
+binhex/arch-plex
