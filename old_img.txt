@@ -1,3 +1,4 @@
 jvmilazz0/kavita
 holaflenain/stable-diffusion
 binhex/arch-plex
+pgvector/pgvector:pg16
