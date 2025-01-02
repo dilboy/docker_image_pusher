@@ -2,9 +2,10 @@ jvmilazz0/kavita
 holaflenain/stable-diffusion
 binhex/arch-plex
 pgvector/pgvector:pg16
+linzeyi/hivision_idphotos_api
 -------20241210---------
-langgenius/dify-api:0.13.2
-langgenius/dify-web:0.13.2
+langgenius/dify-api:0.14.2
+langgenius/dify-web:0.14.2
 postgres:15-alpine
 redis:6-alpine
 langgenius/dify-sandbox:0.2.10
